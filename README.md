@@ -1,4 +1,4 @@
-# D3JS Arc Tween
+# D3JS Arc Tweening
 Click on center circle to show/hide donut chart. <br />
 
 
